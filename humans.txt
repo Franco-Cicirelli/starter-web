@@ -6,8 +6,8 @@
     Franco Cicirelli francocicirelli97@gmail.com @cicirelli
 	
 # THANKS
-
-    <name>
+	
+	All my partners who give the oportunity to improve my Git skilss
 
 # TECHNOLOGY COLOPHON
 
