@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Franco Cicirelli francocicirelli97@gmail.com @cicirelli
+	
 # THANKS
 
     <name>
