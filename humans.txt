@@ -8,6 +8,7 @@
 # THANKS
 	
 	All my partners who give the oportunity to improve my Git skilss
+	Please leave a review if you like this course.
 
 # TECHNOLOGY COLOPHON
 
